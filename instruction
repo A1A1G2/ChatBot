@@ -1,0 +1,3 @@
+chatbot-ui: npm start
+chatbot-service: python flask -m run 
+chatbot-transformer: python flask -m run 
