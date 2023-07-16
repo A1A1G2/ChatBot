@@ -24,4 +24,4 @@ To install and run the chatbot page locally, please follow these steps:
 1. Clone this GitHub repository:
 
 ```bash
-git clone https://github.com/user/chatbot-page.git
+git clone https://github.com/A1A1G2/ChatBot.git
